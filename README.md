@@ -5,5 +5,5 @@
 - 跳舞
 - **繪畫**
 #### 座右銘:*不怕慢，只怕停*
-![烹飪教室](https://cookpad.com/tw)
-[![替代文字]("C:\Users\a0966\Downloads\美食.jpg")]
+[烹飪教室](https://cookpad.com/tw)
+
